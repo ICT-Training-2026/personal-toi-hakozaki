@@ -1,5 +1,6 @@
 package company;
 
 public class product5 {
-//ローカルである
+//ローカル
+//リモート
 }
